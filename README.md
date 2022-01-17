@@ -1,6 +1,6 @@
 # DeepEMSeg
 ## Introduction
-DeepEMSeg is a deep learning based segmentation framework for intermediate resolution cryo-EM density maps
+[//]: DeepEMSeg is a deep learning based segmentation framework for intermediate resolution cryo-EM density maps
 
 ## Install
 
